@@ -7,7 +7,7 @@
     ]
   },
   "scripts": {
-    "server": "yarn workspace @hello/server"
+    "server": "yarn workspace server"
   },
   "devDependencies": {
     "typescript": "^4.7.4"
