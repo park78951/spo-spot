@@ -1,0 +1,15 @@
+{
+  "name": "spo-spot",
+  "packageManager": "yarn@3.2.2",
+  "workspaces": {
+    "packages": [
+      "server"
+    ]
+  },
+  "scripts": {
+    "server": "yarn workspace @hello/server"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
